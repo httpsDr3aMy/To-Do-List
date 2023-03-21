@@ -34,10 +34,10 @@ This function prompts the user to enter the row number of the task they want to 
 #Usage
 1. Run the program with python3 main.py
 2. Choose an option from the menu:
-  2.1 Show tasks
-  2.2 Add task
-  2.3 Remove task
-  2.4 Exit program
+2.1 Show tasks
+2.2 Add task
+2.3 Remove task
+2.4 Exit program
 3. Follow the prompts to add or remove tasks
 4. Tasks and their execution times are stored in the database for future reference.
 
