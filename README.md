@@ -1,4 +1,4 @@
-#To-do List Manager with SQLite Database
+###To-do List Manager with SQLite Database
 This is a Python program that allows you to manage your to-do list using an SQLite database. The program provides the following functionality:
 
 - Show tasks in the database
